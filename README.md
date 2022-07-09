@@ -1,6 +1,7 @@
 # dhtc-server
 
-[dhtc](https://github.com/nbdy/dhtc) ui part with api endpoints
+[dhtc](https://github.com/nbdy/dhtc) ui part with api endpoints<br>
+use [dhtc-client](https://github.com/nbdy/dhtc-client) with this
 
 ## usage
 
